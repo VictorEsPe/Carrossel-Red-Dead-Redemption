@@ -234,6 +234,7 @@ main::after {
 
   .info .description {
     width: 100%;
+    text-align: start;
   }
 
   .side-links {
